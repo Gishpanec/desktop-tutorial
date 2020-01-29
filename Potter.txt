@@ -9,3 +9,6 @@ Seven Deathly Hallows (2007)
 
 new_bag_1.0.0.1-2
 new_bag_1.0.0.1-5
+new_bag_1.0.0.1-5;
+
+new_bag_1.0.0.1-2;
